@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+chromadb
+PyPDF2
+pandas
+sentence-transformers
+transformers
+pip
